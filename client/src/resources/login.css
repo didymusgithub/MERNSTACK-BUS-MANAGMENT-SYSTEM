@@ -1,0 +1,10 @@
+.auth{
+    background-color: var(--secondary);
+    background-image: url('../images/loginimage.jpg');
+    background-size: cover;
+    background-position: right;
+   
+}
+input{
+    border-radius:10px;
+}
